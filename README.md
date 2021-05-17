@@ -76,7 +76,11 @@ After finishing your required elements, you can push your work further. These go
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+The Document Object Model is a cross-platform and language-independent interface that treats an XML or HTML document as a tree structure wherein each node is an object representing a part of the document.
 2. What is an event?
+JavaScript's interaction with HTML is handled through events that occur when the user or the browser manipulates a page.
 3. What is an event listener?
+An event listener is a procedure in JavaScript that waits for an event to occur.
 4. Why would we convert a NodeList into an Array?
 5. What is a component?
+Components are independent and reusable bits of code.
